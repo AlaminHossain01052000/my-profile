@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alamin Hossain</h1>
+<h1 align="center">Hi 👋, I'm Md Al Amin</h1>
 <p align="center"><strong>Competitive Programmer | Full-Stack Developer | Problem Solver</strong></p>
 
 <p align="center">
@@ -13,7 +13,6 @@
   </a>
 </p>
 
----
 
 ### 🚀 Competitive Programming Journey
 
@@ -24,12 +23,12 @@
 - 🏆 Participated in **ACM ICPC Dhaka Regional** — 2022, 2023, 2024  
   ➤ [ICPC Global Profile](https://icpc.global/ICPCID/D3MJFW3R1GAN)
 
----
+
 
 ### 💻 Tech Stack
 
 #### 🔹 Languages
-`C` `C++` `JavaScript` `TypeScript` `Python` `Java` `PHP`
+`C` `C++` `JavaScript` `TypeScript` 
 
 #### 🔹 Frontend
 `React.js` `Redux` `React Router` `Tailwind CSS` `Bootstrap` `Material UI`
@@ -37,10 +36,10 @@
 #### 🔹 Backend & DB
 `Node.js` `Express.js` `MongoDB` `MySQL` `Firebase`
 
-#### 🔹 Tools
-`Git` `VS Code` `REST API` `React Native` `Firebase Auth`
+#### 🔹 Familiar
+`Python` `Java` `PHP`  `React Native` 
 
----
+
 
 ### 📈 GitHub Stats
 
@@ -49,15 +48,9 @@
   <img height="165" src="https://streak-stats.demolab.com?user=AlaminHossain01052000&theme=tokyonight" />
 </p>
 
----
 
-### 🌱 Currently Exploring
 
-- 🤖 Machine Learning with Python
-- 📱 Mobile App Development using React Native
-- ☁️ Cloud & DevOps Fundamentals
 
----
 
 ### 🔗 Find Me Online
 
@@ -82,7 +75,7 @@
   </a>
 </p>
 
----
+
 
 ### 💡 Personal Motto
 
